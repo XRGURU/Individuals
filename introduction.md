@@ -29,19 +29,6 @@ Holopundits® As a premier global XR educational partner, Holopundits' mission i
 - Learners can create a study plan based on their preferences and learn at their comfort
 
  
-
- 
-[![holopundits](https://res.cloudinary.com/marcomontalbano/image/upload/v1649236610/video_to_markdown/images/youtube--D-dxnuMMma0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=D-dxnuMMma0 "holopundits")
-
-   
- <details>
-    <summary>Holopundits</summary>
-Holopundits® As a premier global XR educational partner, Holopundits' mission is to provide users with immersive technologies that enhance the learner's knowledge and application of information. Holopundits’ proven ability to develop closely-aligned course content makes us the preferred partner for industry and academic institutions. Our progressive and active XR Guru developers continue to expand the platform using the latest XR technologies and assets. Our commitment to the learning organization is focused on supporting our partners and customers who plan to meet the modern demands for training and education using XR learning experiences.
-
-
-</details>
-
-
  
 
 ## Contact & Support
