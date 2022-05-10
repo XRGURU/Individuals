@@ -1313,8 +1313,8 @@ main {
 }
 
 .sidebar>h1 .app-name-link {
-	color: #fff;
-	Font-weight: Bold;
+	color: #ffffff;
+	 
 }
 
 body:not([data-platform^="Mac"]) .sidebar::-webkit-scrollbar {
