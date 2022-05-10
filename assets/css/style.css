@@ -1293,7 +1293,7 @@ main {
 	border-width: var(--sidebar-border-width);
 	border-style: solid;
 	border-color: var(--sidebar-border-color);
-	background: var(--sidebar-background)
+	background: #7228b5;
 }
 
 .sidebar>h1 {
@@ -1372,7 +1372,7 @@ body:not([data-platform^="Mac"]) .sidebar::-webkit-scrollbar-thumb {
 	background-position: var(--sidebar-nav-link-background-position);
 	background-repeat: var(--sidebar-nav-link-background-repeat);
 	background-size: var(--sidebar-nav-link-background-size);
-	color: var(--sidebar-nav-link-color);
+	color: #fff;
 	font-weight: var(--sidebar-nav-link-font-weight);
 	white-space: nowrap;
 	-webkit-text-decoration: var(--sidebar-nav-link-text-decoration);
