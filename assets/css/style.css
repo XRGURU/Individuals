@@ -1404,7 +1404,7 @@ body:not([data-platform^="Mac"]) .sidebar::-webkit-scrollbar-thumb {
 	background-image: var(--sidebar-nav-link-background-image--hover, var(--sidebar-nav-link-background-image));
 	background-position: var(--sidebar-nav-link-background-position--hover, var(--sidebar-nav-link-background-position));
 	background-size: var(--sidebar-nav-link-background-size--hover, var(--sidebar-nav-link-background-size));
-	color: var(--sidebar-nav-link-color--hover, var(--sidebar-nav-link-color));
+	color: #ffffff;
 	font-weight: var(--sidebar-nav-link-font-weight--hover, var(--sidebar-nav-link-font-weight));
 	-webkit-text-decoration: var(--sidebar-nav-link-text-decoration--hover, var(--sidebar-nav-link-text-decoration));
 	text-decoration: var(--sidebar-nav-link-text-decoration--hover, var(--sidebar-nav-link-text-decoration));
@@ -1801,14 +1801,14 @@ body .sidebar {
 }
 
 .sidebar .search a {
-	color: inherit
+	color: #ffffff;
 }
 
 .sidebar .search h2 {
 	margin: var(--search-result-heading-margin);
 	font-size: var(--search-result-heading-font-size);
 	font-weight: var(--search-result-heading-font-weight);
-	color: var(--search-result-heading-color)
+	color: #ffffff;
 }
 
 .sidebar .search .input-wrap {
