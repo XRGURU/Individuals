@@ -14,9 +14,11 @@ Download the free application
 
 # User Registration
 
-## Registration from Website
-Any individual can register by clicking on the "Start Your Free Trial" on the website, add some items to the shopping cart. To check out, go to the cart and press the check out button.
+## Registration from website
+Anyone can sign up by going to the [xrguru.com](https://xrguru.com) and clicking "Start Your Free Trial," then adding certain packages to their cart. Go to the cart and click the check out button to complete your purchase.
 
 
 
+## Registration from devices
 
+You can register by clicking the signup link after you've downloaded the app from the link above.
