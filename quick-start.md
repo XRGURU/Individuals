@@ -6,8 +6,13 @@ XR GURU was created to make Augmented and Virtual Reality solutions accessible t
 ## Here’s How It Works
 Getting started is easy! Just follow these 4 simple steps:
 
-![installation](https://user-images.githubusercontent.com/105265661/167640346-dca28c0d-243b-4770-a4f4-26d13e168620.PNG)
 
+
+ 
+|![1](https://user-images.githubusercontent.com/105265661/167645803-0b15ba44-3e7f-4afd-b0e8-c530f672b7d5.png) |![2](https://user-images.githubusercontent.com/105265661/167646238-4d38835a-7721-4643-a832-6ae1b2bc0094.png)| #2 | #2 |
+| :---: | :---: | :---: | :---: |
+| Download the App | Create an account | Choose the packages| Experience immersive content|
+| Download the XR Guru app for either Oculus, iOS, or Android | Register for an XR Guru account that will sync to devices with the installed XR Guru app | Subscribe to additional topics and content as desired | Using your device, select the desired topics to experience.|
 
 
 # Instalation
