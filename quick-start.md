@@ -8,8 +8,10 @@ Getting started is easy! Just follow these 4 simple steps:
 
 
 
+
+
  
-|![1](https://user-images.githubusercontent.com/105265661/167645803-0b15ba44-3e7f-4afd-b0e8-c530f672b7d5.png) |![2](https://user-images.githubusercontent.com/105265661/167646238-4d38835a-7721-4643-a832-6ae1b2bc0094.png)| #2 | #2 |
+| ![1](https://user-images.githubusercontent.com/105265661/167648636-bac60965-01be-45ab-9925-91a28c33b653.png) |![2](https://user-images.githubusercontent.com/105265661/167648629-6be83ce5-6222-4cdb-88ec-54d5a6e57df4.png)| #2 | #2 |
 | :---: | :---: | :---: | :---: |
 | Download the App | Create an account | Choose the packages| Experience immersive content|
 | Download the XR Guru app for either Oculus, iOS, or Android | Register for an XR Guru account that will sync to devices with the installed XR Guru app | Subscribe to additional topics and content as desired | Using your device, select the desired topics to experience.|
