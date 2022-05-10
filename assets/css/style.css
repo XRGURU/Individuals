@@ -2267,7 +2267,7 @@ body .sidebar {
 	--search-result-heading-font-weight: var(--strong-font-weight);
 	--search-result-item-border-color: var(--sidebar-border-color);
 	--search-result-keyword-border-radius: var(--border-radius-s);
-	--sidebar-background: var(--mono-tint3);
+	--sidebar-background: var(--color-c);
 	--sidebar-border-color: var(--mono-tint2);
 	--sidebar-border-width: 0 1px 0 0;
 	--sidebar-name-color: var(--theme-color);
