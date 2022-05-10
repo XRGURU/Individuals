@@ -8,10 +8,8 @@
 }
 
 .github-corner svg {
-	height: 70px;
-	width: 70px;
-	fill: var(--theme-color);
-	color: var(--base-background-color)
+	 
+	 
 }
 
 .github-corner:hover .octo-arm {
