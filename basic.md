@@ -1,5 +1,5 @@
 # What is XR Guru?
- 
+
 XR Guru™ is a next-generation education and training application designed to bring learning, content creation, and distribution together under one easy-to-use platform. XR Guru is the brainchild of Holopundits®, a software company with a vision to the future of learning in an immersive environment that transcends the learning experience into a truly engaging environment. By combining VR (virtual reality) and (AR) augmented reality capabilities, XR Guru engages the user through extended reality that entices the learner's natural curiosity and interest.
 
 # Holopundits
@@ -23,3 +23,17 @@ Holopundits® As a premier global XR educational partner, Holopundits' mission i
 - Easily explain simple or complex topics using XR interactions, 3D models, and real-time illustrations.&#x20;
 - Enable learners to focus on the content without distractions in an experiential learning environment.&#x20;
 - Learners can create a study plan based on their preferences and learn at their comfort
+
+ 
+
+ 
+[![holopundits](https://res.cloudinary.com/marcomontalbano/image/upload/v1649236610/video_to_markdown/images/youtube--D-dxnuMMma0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=D-dxnuMMma0 "holopundits")
+
+   
+ <details>
+    <summary>Holopundits</summary>
+Holopundits® As a premier global XR educational partner, Holopundits' mission is to provide users with immersive technologies that enhance the learner's knowledge and application of information. Holopundits’ proven ability to develop closely-aligned course content makes us the preferred partner for industry and academic institutions. Our progressive and active XR Guru developers continue to expand the platform using the latest XR technologies and assets. Our commitment to the learning organization is focused on supporting our partners and customers who plan to meet the modern demands for training and education using XR learning experiences.
+
+
+</details>
+
