@@ -1,6 +1,6 @@
 # Quick Start
 
-## Downloads
+# Instalation
 
 Download the free application
 
@@ -11,6 +11,11 @@ Download the free application
 
 [![oq2](https://user-images.githubusercontent.com/105265661/167634065-035117d1-04c8-4551-b376-4fa677712710.png)]( https://www.oculus.com/experiences/quest/3694537353974790)
  
+
+# User Registration
+
+## Registration from Website
+Any individual can register by clicking on the "Start Your Free Trial" on the website, add some items to the shopping cart. To check out, go to the cart and press the check out button.
 
 
 
