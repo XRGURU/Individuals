@@ -1,10 +1,5 @@
 .github-corner {
-	position: absolute;
-	z-index: 40;
-	top: 0;
-	right: 0;
-	border-bottom: 0;
-	text-decoration: none
+	
 }
 
 .github-corner svg {
@@ -13,8 +8,7 @@
 }
 
 .github-corner:hover .octo-arm {
-	-webkit-animation: octocat-wave 560ms ease-in-out;
-	animation: octocat-wave 560ms ease-in-out
+	
 }
 
 @-webkit-keyframes octocat-wave {
