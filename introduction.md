@@ -28,8 +28,5 @@ Holopundits® As a premier global XR educational partner, Holopundits' mission i
 - Enable learners to focus on the content without distractions in an experiential learning environment.&#x20;
 - Learners can create a study plan based on their preferences and learn at their comfort
 
- 
- 
-
 ## Contact & Support
    Email Us : info@holopundits.com
