@@ -1,50 +1,31 @@
-# Introduction
 
-[![NPM](https://img.shields.io/npm/v/docsify-themeable.svg?style=flat-square)](https://www.npmjs.com/package/docsify-themeable)
-[![GitHub Workflow Status (master)](https://img.shields.io/github/workflow/status/jhildenbiddle/docsify-themeable/Build/master?label=checks&style=flat-square)](https://github.com/jhildenbiddle/docsify-themeable/actions?query=branch%3Amaster+)
-[![Codacy grade](https://img.shields.io/codacy/grade/39220ba530f24dfc9443b47f2efea5c9?style=flat-square)](https://app.codacy.com/gh/jhildenbiddle/docsify-themeable/dashboard)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/jhildenbiddle/docsify-themeable/blob/master/LICENSE)
-[![jsDelivr](https://data.jsdelivr.com/v1/package/npm/docsify-themeable/badge)](https://www.jsdelivr.com/package/npm/docsify-themeable)
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fjhildenbiddle%2Fdocsify-themeable&hashtags=css,docsify,developers,frontend)
-<a class="github-button" href="https://github.com/jhildenbiddle/docsify-themeable" data-icon="octicon-star" data-show-count="true" aria-label="Star jhildenbiddle/docsify-themeable on GitHub">Star</a>
+![xrgurulogo](https://user-images.githubusercontent.com/105265661/167609928-93d24a7b-88e1-4d63-b7ea-2dd533adb98c.jpg)
+# Individuals - Documentation
 
-## Features
 
-- **Flexible theme system based on CSS custom properties**<br>
-  Theme settings are presented as a flat list of logically-named [CSS custom properties](customization). There's no need to navigate or modify complex CSS, allowing changes to be made quickly and confidently.
+## What is XR Guru?
+XR Guru™ is a next-generation education and training application designed to bring learning, content creation, and distribution together under one easy-to-use platform. XR Guru is the brainchild of Holopundits®, a software company with a vision to the future of learning in an immersive environment that transcends the learning experience into a truly engaging environment. By combining VR (virtual reality) and (AR) augmented reality capabilities, XR Guru engages the user through extended reality that entices the learner's natural curiosity and interest.
 
-- **No packages to install or static files to build**<br>
-  All processing is done in the browser, removing the need for CSS preprocessors and other build tools. Just link to a theme, then customize by setting [theme-related properties](customization). That's it.
+## Holopundits
+Holopundits® As a premier global XR educational partner, Holopundits' mission is to provide users with immersive technologies that enhance the learner's knowledge and application of information. Holopundits’ proven ability to develop closely-aligned course content makes us the preferred partner for industry and academic institutions. Our progressive and active XR Guru developers continue to expand the platform using the latest XR technologies and assets. Our commitment to the learning organization is focused on supporting our partners and customers who plan to meet the modern demands for training and education using XR learning experiences.
 
-- **Multiple themes available**<br>
-  Use a theme as-is, or as a starting point for something completely new. All themes share the same customizable properties, making it easy mix styles from different themes.
+## XR Guru Features and Benefits
+  - Multiple licensing programs to meet the needs of Individuals and Institutions.
+  - XR technologies, including smart devices and VR HMDs
+  - Administrative functions for managing your XR Guru platform.
+  - Publish content to the Marketplace and assign it to learners or make the content available to users for purchase.
+  - Authoring tool that does not require coding experience.
+  - Technical Support Team
+  - Access to hundreds of ready-to-use content in a variety of subjects.
+  - 200+ highly curated learning modules that help K12 and college students in learning content that aligns with curriculum standards and STEM guidelines.
+  - Asset Library of 3D models
+  - Content creators can upload their own assets to their library or share them in the Asset Library
+  - Easily explain simple or complex topics using XR interactions, 3D models, and real-time illustrations.
+  - Enable learners to focus on the content without distractions in an experiential learning environment.
+  - Learners can create a study plan based on their preferences and learn at their comfort
 
-- **Improved desktop and mobile experience**<br>
-  Enhancements that are unique to docsify-themeable—along with docsify- and browser-related bug fixes—provide a more enjoyable and trouble-free experience for site authors and visitors.
-
-  - [Extensive customization](customization)
-  - [PrismJS theme compatibility](customization#prismjs)
-  - [Module scale typography](customization#base)
-  - [Plugin customization](customization#plugin-styles)
-  - [Ready transition](options#readytransition)
-  - [Responsive tables](options#responsivetables)
-
-- **Legacy browser support (IE10+)**<br>
-  Thoroughly tested and fully compatible with legacy browsers, including support for CSS custom properties (courtesy of a handy [ponyfill](https://github.com/jhildenbiddle/css-vars-ponyfill) developed specifically for docsify-themeable).
-
-?> Like docsify-themeable? Be sure to check out [docsify-tabs](https://jhildenbiddle.github.io/docsify-tabs)!
+ 
 
 ## Contact & Support
-
-- Create a [GitHub issue](https://github.com/jhildenbiddle/docsify-themeable/issues) for bug reports, feature requests, or questions
-- Follow [@jhildenbiddle](https://twitter.com/jhildenbiddle) for announcements
-- Add a ⭐️ [star on GitHub](https://github.com/jhildenbiddle/docsify-themeable) or ❤️ [tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fjhildenbiddle%2Fdocsify-themeable&hashtags=css,developers,frontend,javascript) to support the project!
-
-## License
-
-This project is licensed under the [MIT license](https://github.com/jhildenbiddle/docsify-themeable/blob/master/LICENSE).
-
-Copyright (c) John Hildenbiddle ([@jhildenbiddle](https://twitter.com/jhildenbiddle))
-
-<!-- GitHub Buttons -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+ 
+ 
