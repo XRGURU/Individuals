@@ -15,6 +15,24 @@ figure.thumbnails img {
         clear: both;
     }
 
+    
+   .sidebar {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    z-index: 10;
+    top: 0;
+    right: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    height: 100vh;
+    width: var(--sidebar-width);
+    padding: var(--sidebar-padding);
+    border-width: var(--sidebar-border-width);
+    border-style: solid;
+    border-color: var(--sidebar-border-color);
+    background: ##7228b5;
+}
     figure.thumbnails img {
         float: left;
         width: calc(50% - 0.75em);
