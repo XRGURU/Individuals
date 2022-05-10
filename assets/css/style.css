@@ -1301,7 +1301,7 @@ main {
 	margin: var(--sidebar-name-margin);
 	padding: var(--sidebar-name-padding);
 	background: var(--sidebar-name-background);
-	color: var(--sidebar-name-color);
+	color: #ffffff;
 	font-family: var(--sidebar-name-font-family);
 	font-size: var(--sidebar-name-font-size);
 	font-weight: var(--sidebar-name-font-weight);
