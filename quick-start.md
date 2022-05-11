@@ -1,7 +1,13 @@
 # Quick Start
 Augmented Reality (AR) and Virtual Reality (VR) brings learners closer to reality and bridges the gap between the virtual and real world. 
 
+
+
+
+<p align="justify">
 XR GURU was created to make Augmented and Virtual Reality solutions accessible to as many people as possible around the world. It does so by removing the barriers that come with introducing AR and VR into an academic or industrial setting. Educators, trainers, employers, and other users can utilise XR GURU to create engaging and immersive AR and VR lessons without having to have any coding or advanced technology skills. The teachings can then be transmitted to students, trainees, employees, or the general public for consumption on a variety of devices, including smartphones, laptops, and publicly available headsets. In dozens of nations around the world, XR GURU is preparing millions of students, employees, and citizens for the present and future by both replacing and assisting traditional training and teaching techniques.
+</p>
+
 
 ## Here’s How It Works
 Getting started is easy! Just follow these 4 simple steps:
