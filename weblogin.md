@@ -20,10 +20,9 @@ Simply click on the thumbnail to see the video content. The user can resize, rot
 <p align="justify">
 Users can view the package they purchased and purchase additional packages through the subscriptions menu. They can choose to renew their existing packages.
 </p>
+   <img src="https://user-images.githubusercontent.com/105265661/167818461-319ace66-6fd1-44f4-b21d-7c6774db8827.png">
  
  
- ![159879181-2490d8f4-e4a5-44bf-9e54-b40a51ce6114](https://user-images.githubusercontent.com/105265661/167818461-319ace66-6fd1-44f4-b21d-7c6774db8827.png)
-
 
 ## Transactions
 
