@@ -4,6 +4,5 @@
 - [Market Place](marketplace)
 - [User Login](userlogin)
 - [WebPortal Login](weblogin)
-- [App Login](applogin)
 - [Supported Devices](devices)
 
