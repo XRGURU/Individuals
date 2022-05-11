@@ -1,9 +1,8 @@
 # WebPortal Login
 
 <p align="justify"> The login button at the top of the website leads the user to the login page, where they can input their credentials. It's vital to distinguish between the login and registration forms because the login input fields (email and password) are becoming increasingly similar on a rising number of websites.</p>
+ <img src="https://user-images.githubusercontent.com/105265661/167817197-98e76f1a-6ac1-423c-9e0a-7a626ef97087.png">
  
-![167798967-b8b5c9e4-d425-45eb-8737-03ae75b1e72d](https://user-images.githubusercontent.com/105265661/167817197-98e76f1a-6ac1-423c-9e0a-7a626ef97087.png)
-
 
 ## My Topics
 <p align="justify">
