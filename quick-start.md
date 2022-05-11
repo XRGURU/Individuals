@@ -67,6 +67,13 @@ Anyone can sign up by going to the [xrguru.com](https://xrguru.com) and clicking
 
 You can register by clicking the signup link after you've downloaded the app from the link above.
 
+- Download the XR Guru app for either Oculus, iOS, or Android
+- Register for an XR Guru account that will sync to devices with the installed XR Guru app
+- Subscribe to additional topics and content as desired
+- Using your device, select the desired topics to experience.
+
+
+
 ![160375243-1fbf1da2-e6e7-4421-8ff3-7cbd9c0fa70d](https://user-images.githubusercontent.com/105265661/167788108-cc8ec220-ea72-4d18-b968-0b8c91aa7284.jpg)
 
  
