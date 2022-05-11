@@ -29,8 +29,10 @@ Users can view the package they purchased and purchase additional packages throu
 ## Transactions
 
 This feature allows the user to review all of his marketplace transactions.
+ 
+ 
+ ![159897100-1551af05-0920-48ab-b281-68362841e99c](https://user-images.githubusercontent.com/105265661/167819054-a2a0d7b3-09bb-4450-9367-55cff2f16044.png)
 
-![159897096-11027847-c4c7-495b-96e7-9e8759b199a1](https://user-images.githubusercontent.com/105265661/167817519-75f2150b-6306-4e25-96ba-cedc1ee26ebd.png)
 
 
 ## Settings
