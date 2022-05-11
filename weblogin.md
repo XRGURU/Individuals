@@ -38,6 +38,8 @@ This feature allows the user to review all of his marketplace transactions.
 <p align="justify">
 When a user enters into an Oculus Quest, an iPad, or an Android tablet, they will be able to see what is going on. They'll be registered, and a list of all connected devices will appear. You can unmap them if you want.
 </p>
+ <img src="https://user-images.githubusercontent.com/105265661/167820025-616b410a-2872-4856-aa12-b7cae403caba.png">
 
 
+ 
 
