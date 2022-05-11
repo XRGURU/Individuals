@@ -7,3 +7,15 @@ When you click on a package, such as Basic Biology, you will be sent to a detail
 
 
 ![image](https://user-images.githubusercontent.com/105265661/167795004-d47f3b53-cdb8-491b-979c-447564baaa1e.png)
+
+
+# Features
+- Technical Support Team
+- Access to hundreds of ready-to-use content in a variety of subjects.
+- 200+ highly curated learning modules that help K12 and college students in learning content that aligns with curriculum standards and STEM guidelines.
+- Easily explain simple or complex topics using XR interactions, 3D models, and real-time illustrations.
+- Enable learners to focus on the content without distractions in an experiential learning environment.
+- Learners can create a study plan based on their preferences and learn at their comfort
+
+
+
