@@ -2,6 +2,6 @@
 - [Introduction](introduction)
 - [Quick Start](quick-start)
 - [Market Place](marketplace)
-- [User Login](customization)
+- [User Login](userlogin)
 - [Supported Devices](options)
 
