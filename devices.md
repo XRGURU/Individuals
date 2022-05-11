@@ -2,16 +2,15 @@
 #  Supported Devices
 XR Guru works with devices including the iPad, Android tablets, and the Oculus Quest 2.
 The Windows and Mac apps are in beta.
+ 
 
-# Devices
-
-### Oculus Quest 2
+## Oculus Quest 2
 
  
 <img src="https://user-images.githubusercontent.com/101865042/159917994-c4de13e8-5cfd-4f6f-9aec-a4e655ad319e.jpg" alt="drawing" style="width:800px;"/>
 
 
-# Login Screen
+## Login Screen
 
 Oculus Quest 2 Allows Learners see the powerful and engaging 3D visuals. Our brains process images faster than text, and pictures help us better comprehend information.
 
@@ -34,7 +33,7 @@ Learners today will embrace leading-edge technologies and tools such as XR Guru.
 
 
 
-# iPad
+## iPad
 
 
 ![159673991-235572dd-8953-405d-93f7-8b7007be007b](https://user-images.githubusercontent.com/101865042/160373157-c8880592-c728-442b-8db7-dc3964782a0c.png)
@@ -51,12 +50,12 @@ If users forget their password, they can easily access the forget password scree
 Once you login to app.
 Our app keeps users logged in by default, however it's also critical that consumers may simply log in as a different user if necessary.
 
-# Login Screen
+## Login Screen
 
 ![app](https://user-images.githubusercontent.com/101865042/160375243-1fbf1da2-e6e7-4421-8ff3-7cbd9c0fa70d.png)
 
 
-# Android Tablet
+## Android Tablet
 
 ![tablets](https://user-images.githubusercontent.com/101865042/160382015-e426097a-8d8a-4b42-9f70-83bed43b70c1.PNG)
 
