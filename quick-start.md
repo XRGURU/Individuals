@@ -1,3 +1,32 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@XRGURU 
+XRGURU
+/
+Individuals
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Individuals/quick-start.md
+@XRGURU
+XRGURU Update quick-start.md
+Latest commit fc69934 32 minutes ago
+ History
+ 1 contributor
+59 lines (21 sloc)  3.02 KB
+   
 # Quick Start
 Augmented Reality (AR) and Virtual Reality (VR) brings learners closer to reality and bridges the gap between the virtual and real world. 
 
@@ -20,8 +49,10 @@ Getting started is easy! Just follow these 4 simple steps:
 
 
 
- 
-| <img src="https://user-images.githubusercontent.com/105265661/167777319-b4bd1912-2aea-4543-ae6b-13a45e515d4a.png" >|<img src="https://user-images.githubusercontent.com/105265661/167778438-90d3f88c-05e0-478e-b44c-934ef7e86cbc.png" > |  <img src="https://user-images.githubusercontent.com/105265661/167777326-f94b1569-50c0-4706-a6b0-064e2bef209b.png" > |  <img src="https://user-images.githubusercontent.com/105265661/167777328-ed15275c-3765-460f-b6ac-4bf28485c0c9.png" > |
+
+
+
+| <img src="https://user-images.githubusercontent.com/105265661/167777319-b4bd1912-2aea-4543-ae6b-13a45e515d4a.png" width="200">|<img src="https://user-images.githubusercontent.com/105265661/167778438-90d3f88c-05e0-478e-b44c-934ef7e86cbc.png" width="200"> |  <img src="https://user-images.githubusercontent.com/105265661/167777326-f94b1569-50c0-4706-a6b0-064e2bef209b.png" width="200"> |  <img src="https://user-images.githubusercontent.com/105265661/167777328-ed15275c-3765-460f-b6ac-4bf28485c0c9.png" width="200"> |
 | :---: | :---: | :---: | :---: |
 | Download the App | Create an account | Choose the packages| Experience immersive content|
 | Download the XR Guru app for either Oculus, iOS, or Android | Register for an XR Guru account that will sync to devices with the installed XR Guru app | Subscribe to additional topics and content as desired | Using your device, select the desired topics to experience.|
@@ -50,16 +81,9 @@ Download the free application
 ## Registration from website
 Anyone can sign up by going to the [xrguru.com](https://xrguru.com) and clicking "Start Your Free Trial," then adding certain packages to their cart. Go to the cart and click the check out button to complete your purchase.
 
-![159876934-f56ca441-4ba4-48b2-a732-9c7de53d4ca8](https://user-images.githubusercontent.com/105265661/167784454-22d78daf-fcf0-494e-a814-591e1fd5c6e4.png)
-
-
-![159876992-1f34d7fb-1aea-4fcd-b1b1-75ffbf7b9447](https://user-images.githubusercontent.com/105265661/167784472-cf05bb7c-3c3a-46a5-a907-36dcc075d0f3.png)
 
 
 ## Registration from devices
 
 You can register by clicking the signup link after you've downloaded the app from the link above.
-
-![160375243-1fbf1da2-e6e7-4421-8ff3-7cbd9c0fa70d](https://user-images.githubusercontent.com/105265661/167784679-3a2447d5-aebf-478b-a48e-f59c51f96303.jpg)
-
-
+ 
