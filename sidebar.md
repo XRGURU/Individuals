@@ -3,5 +3,5 @@
 - [Quick Start](quick-start)
 - [Market Place](marketplace)
 - [User Login](userlogin)
-- [Supported Devices](options)
+- [Supported Devices](devices)
 
