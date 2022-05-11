@@ -1,31 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
  
-@XRGURU 
-XRGURU
-/
-Individuals
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Individuals/quick-start.md
-@XRGURU
-XRGURU Update quick-start.md
-Latest commit fc69934 32 minutes ago
- History
- 1 contributor
-59 lines (21 sloc)  3.02 KB
    
 # Quick Start
 Augmented Reality (AR) and Virtual Reality (VR) brings learners closer to reality and bridges the gap between the virtual and real world. 
