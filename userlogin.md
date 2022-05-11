@@ -1,7 +1,7 @@
 # User Login
 
 
-# WebPortal Login
+## WebPortal Login
 
 When a user clicks the login button at the top of the page, it takes them to the login page, where they can enter their credentials. As the login input fields (email and password) are becoming increasingly identical on a growing number of websites, it's critical to distinguish between the login and registration forms.
 
@@ -14,7 +14,7 @@ Once you login to app. Our app keeps users logged in by default, however it's al
 ![159888760-8f0e8414-7a79-4c7a-bd8b-1289af050539](https://user-images.githubusercontent.com/105265661/167798967-b8b5c9e4-d425-45eb-8737-03ae75b1e72d.png)
 
 
-# App Login
+## App Login
    
 All the magic happens here, When you log in to the app on any device, such as an oculus quest (virtual reality device) or an iPad, a screen will appear with all of the videos listed and the user can browse through them.
 
