@@ -2287,7 +2287,7 @@ body .sidebar {
 	--sidebar-nav-link-border-color: transparent;
 	--sidebar-nav-link-border-color--active: var(--theme-color);
 	--sidebar-nav-link-border-width: 0 4px 0 0;
-	--sidebar-nav-link-color--active: var(--theme-color);
+	--sidebar-nav-link-color--active:#f310f1;
 	--sidebar-nav-link-margin: 0 -25px 0 0;
 	--sidebar-nav-link-text-decoration: none;
 	--sidebar-nav-link-text-decoration--active: none;
