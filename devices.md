@@ -10,7 +10,7 @@ The Windows and Mac apps are in beta.
 <img src="https://user-images.githubusercontent.com/101865042/159917994-c4de13e8-5cfd-4f6f-9aec-a4e655ad319e.jpg" alt="drawing" style="width:800px;"/>
 
 
-## Login Screen
+### Login Screen
 
 Oculus Quest 2 Allows Learners see the powerful and engaging 3D visuals. Our brains process images faster than text, and pictures help us better comprehend information.
 
@@ -50,7 +50,7 @@ If users forget their password, they can easily access the forget password scree
 Once you login to app.
 Our app keeps users logged in by default, however it's also critical that consumers may simply log in as a different user if necessary.
 
-## Login Screen
+### Login Screen
 
 ![app](https://user-images.githubusercontent.com/101865042/160375243-1fbf1da2-e6e7-4421-8ff3-7cbd9c0fa70d.png)
 
